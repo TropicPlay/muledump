@@ -7,7 +7,6 @@ accounts = {
 // escape them with backslashes (\) like this: 'pass\'word'
 
 
-'bartek.tylka2@op.pl': 'bartek223',
 
 
 }// don't delete this line!
